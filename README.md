@@ -1,8 +1,8 @@
 <h1 align="center">Gaming Devices</h1>
 
-List of gaming devices I already own
+<p align="center">List of gaming devices I already own</p>
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > This post is only used to record those devices I own. I do not provide any outside services.
 
 ### Game Consoles
