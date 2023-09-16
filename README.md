@@ -129,8 +129,24 @@
 ### Streaming Webcam
 
 - HIKVISION E14a
-- Insta360 GO 3
 - Logitech Meetup
+
+### Action Cameras
+
+- Insta360 GO 3
+
+### Camera Accessories
+
+- Insta360 114cm Invisible Selfie Stick
+- Insta360 GO 3 Carry Case
+- Insta360 GO 3 Easy Clip
+- Insta360 GO 3 Magnet Pendant
+- Insta360 GO 3 Magnet Pendant Safety Cord
+- Insta360 GO 3 Pivot Stand
+- Insta360 GO 3 Quick Release Mount
+- Insta360 GO 3 Screen Protector
+- Insta360 Mini 2-in-1 Tripod
+- Insta360 Monkey Tail Mount
 
 ## License
 
