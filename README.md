@@ -134,6 +134,7 @@
 ### Action Cameras
 
 - Insta360 GO 3
+- Insta360 X3
 
 ### Camera Accessories
 
