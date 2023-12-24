@@ -35,6 +35,7 @@
 
 - Aolion Docking Station for Steam Deck
 - DOBE Wireless Keyboard for Xbox Series X|S and One X|S
+- ROG AZOTH
 - Yingguo Docking Station for Steam Deck
 
 ### PC
