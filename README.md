@@ -35,7 +35,6 @@
 
 - Aolion Docking Station for Steam Deck
 - DOBE Wireless Keyboard for Xbox Series X|S and One X|S
-- ROG AZOTH
 - Yingguo Docking Station for Steam Deck
 
 ### PC
@@ -88,6 +87,7 @@
 - Logitech POP Keys YR0080
 - Magic Keyboard with Touch ID for Mac models with Apple silicon
 - MIPOW | miffy MPC-002
+- ROG AZOTH
 
 ### Mouses
 
