@@ -92,6 +92,7 @@
 ### Mouses
 
 - Logitech G304
+- Logitech G502 X LIGHTSPEED
 - Mad Catz R.A.T.7 (Red)
 - Magic Mouse - White Multi-Touch Surface
 - Magic Trackpad - White Multi-Touch Surface
