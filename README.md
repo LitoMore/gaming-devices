@@ -52,7 +52,6 @@
 
 ### Official Controllers
 
-- Backbone One - PlayStation® Edition ([BB-02](https://www.ifixit.com/Device/Backbone_One))
 - DualSense™ ([CFI-ZCT1G](https://www.ifixit.com/Device/DualSense))
 - DualSense Edge™ ([CFI-ZCP1](https://www.ifixit.com/Device/DualSense_Edge))
 - DualShock®4 ([CUH-ZCT1U](https://www.ifixit.com/Device/DualShock_4))
@@ -75,6 +74,15 @@
 
 - IINE Nintendo Switch Cartoon Cat Controller ([L2B8](https://iine.store/products/iine-cartoon-kitten-wake-up-voice-wireless-controller-headset-support-compatible-nintendo-switch-switch-lite-switch-oled))
 - IINE Nintendo Switch Cartoon Wake Up Controller ([RNSHANDLERBK](https://iine.store/products/iine-gen4-wireless-bluetooth-nfc-theme-controller-wake-up-function-support-amiibo-for-nintendo-switch-lite-oled?variant=42831620604059))
+
+### Mobile Controllers & Accessories
+
+- Backbone One - PlayStation® Edition ([BB-02](https://www.ifixit.com/Device/Backbone_One))
+- LeadJoy M1C+ ([M1C+](https://www.leadjoy.top/products/leadjoy-m1c))
+
+### Mobile Accessories
+
+- GameSir F9
 
 ### Keyboards
 
