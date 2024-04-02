@@ -27,6 +27,7 @@
 - Paladone® PlayStation® Alarm Clock V2
 - PlayStation®Camera
 - PlayStation®Camera Adaptor
+- PlayStation® Portal™
 - PlayStation®5 HD Camera
 - PlayStation®5 Media Control
 - Steam Deck™ Docking Station
