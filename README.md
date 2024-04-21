@@ -78,7 +78,8 @@
 
 ### Mobile Controllers & Accessories
 
-- Backbone One - PlayStation® Edition ([BB-02](https://www.ifixit.com/Device/Backbone_One))
+- Backbone One - PlayStation® Edition (Lightning) ([BB-02](https://www.ifixit.com/Device/Backbone_One))
+- Backbone One - PlayStation® Edition (USB-C) - ([BB-51](https://playbackbone.com/products/backbone-one-usb-c-playstation/))
 - LeadJoy M1C+ ([M1C+](https://www.leadjoy.top/products/leadjoy-m1c))
 
 ### Mobile Accessories
