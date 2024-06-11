@@ -92,6 +92,7 @@
 - AKKO Doraemon 3068v2 BT5.0 (AKKO Blue Switch)
 - Customized XD60 (Cherry Red Switch)
 - Ducky DK2087S (Cherry Blue Switch)
+- EWEADN V99
 - HHKB Professional BT
 - HHKB Professional Hybrid Type-S
 - Logitech POP Keys YR0080
