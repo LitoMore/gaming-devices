@@ -111,6 +111,8 @@
 - Magic Trackpad - White Multi-Touch Surface
 - Microsoft Sculpt Comfort Mouse
 - Xiaomi Gaming Mouse Lite
+- Xiaomi Portable Mouse 3
+- Xiaomi Wireless Mouse 3 (Color version)
 
 ### Earphones/Headsets/Microphone/Speakers
 
