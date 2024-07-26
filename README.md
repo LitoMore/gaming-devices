@@ -141,6 +141,7 @@
 
 ### Capture Card
 
+- AVerMedia GC551G2
 - AVerMedia GC553
 
 ### Streaming Webcam
