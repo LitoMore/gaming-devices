@@ -103,6 +103,8 @@
 - MIPOW | miffy MPC-002
 - ROG AZOTH
 - ROG AZOTH Extreme
+- ROG Falchion Ace HFX ZywOo Edition
+- ROG Falchion RX Low Profile
 
 ### Mouses
 
