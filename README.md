@@ -104,7 +104,7 @@
 - ROG AZOTH
 - ROG AZOTH Extreme
 - ROG Falchion Ace HFX ZywOo Edition
-- ROG Falchion RX Low Profile
+- ROG Falchion RX Low Profile (Pre-lubed RX Red Switch)
 
 ### Mouses
 
